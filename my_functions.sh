@@ -1,6 +1,7 @@
 alias gith='cd ~/GitWorkspace/'
 alias python='python3'
 alias pip='pip3.6'
+alias bp='vim ~/.bash_profile'
 
 # alias jflap='java -jar ~/Documents/JFLAP.jar'
 
