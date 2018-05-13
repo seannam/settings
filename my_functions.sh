@@ -1,4 +1,7 @@
 alias gith='cd ~/GitWorkspace/'
+alias python='python3'
+alias pip='pip3.6'
+
 # alias jflap='java -jar ~/Documents/JFLAP.jar'
 
 # Setting PATH for Python 3.6
